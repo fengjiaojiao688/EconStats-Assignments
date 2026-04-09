@@ -1,2 +1,2 @@
-# EconStats-Assignments
-This repository serves as a collection of my coursework and projects related to Economic Statistics. I am currently pursuing a double degree in Economic Statistics and Data Science &amp; Big Data Technology,covering statistical analysis, econometric modeling, and data processing within an economic context.
+# E-commerce Sales Trend Analysis with Statistical Modeling
+This script conducts a comprehensive time-series analysis of e-commerce sales data. It implements a full data pipeline including data cleaning, CAGR calculation, and market share evolution analysis. A key feature is the use of Linear Regression (Scikit-learn) to calculate the R² coefficient for each industry, quantifying the stability of growth trends. The system automatically identifies high-growth sectors (CAGR > 20%) and generates a structured Excel report for business decision-making.
